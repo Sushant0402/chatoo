@@ -10,6 +10,7 @@ This is a chat app made in flutter.
   * Now add your own firebase to the app
   * Now run the app 
   > Important : you should have flutter installed on you system.
+  
   > In this app i have used Firebase Authentication, Firestore database and Storage so you have to integrate all those in this app.
 
 ## ScreenShots of App
