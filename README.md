@@ -11,7 +11,7 @@ This is a chat app made in flutter.
   * Now run the app 
   > Important : you should have flutter installed on you system.
   
-  > In this app i have used Firebase Authentication, Firestore database and Storage so you have to integrate all those in this app.
+  > In this app i have used Firebase (Authentication, Firestore database and Storage) so you have to integrate all those in this app.
 
 ## ScreenShots of App
 <img src="https://github.com/Sushant0402/chatoo/blob/master/image/1.jpg" width="250px"> <img src="https://github.com/Sushant0402/chatoo/blob/master/image/2.jpg" width="250px">
