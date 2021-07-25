@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663537441238",
+    "project_id": "chatoo-3db1d",
+    "storage_bucket": "chatoo-3db1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663537441238:android:5aff44a3bb47429dcfec77",
+        "android_client_info": {
+          "package_name": "com.example.chatoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663537441238-13rg2diveuk6dg5mnpauo2hplcg1bgjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvb2pDy4y2TZ_Zb_OXDRkkJX5Xi02V4TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663537441238-13rg2diveuk6dg5mnpauo2hplcg1bgjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
