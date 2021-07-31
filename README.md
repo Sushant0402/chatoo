@@ -16,3 +16,5 @@ This is a chat app made in flutter.
 ## ScreenShots of App
 <img src="https://github.com/Sushant0402/chatoo/blob/master/image/1.jpg" width="250px"> <img src="https://github.com/Sushant0402/chatoo/blob/master/image/2.jpg" width="250px">
 <img src="https://github.com/Sushant0402/chatoo/blob/master/image/3.jpg" width="250px"> <img src="https://github.com/Sushant0402/chatoo/blob/master/image/4.jpg" width="250px">
+
+##### Made with ♥ by sushant
